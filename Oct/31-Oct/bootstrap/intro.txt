@@ -1,0 +1,22 @@
+
+Bootstrap.
+=> It is a css library.
+    => which provides prebuilt classes.
+    => Free to use.
+    => Created by Twitter.
+    => Responsive.
+
+
+1. Install bootstrap in our application. - Done.
+2. Using Icons form Bootstrap.
+3. Buttons from Bootstrap.
+4. NavBar from bootstrap.
+
+
+Bootstrap gird.
+=> Divides entire page in 12 columns.
+=> 12 columns => 
+=> 3 columns.
+
+
+

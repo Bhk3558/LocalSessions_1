@@ -1,0 +1,28 @@
+
+
+OOPS - Object Oriented Programming.
+    Classes. - DOne
+    Objects. - Done.
+    Methods/Attributes. - Done.
+    Constructor - Done.
+    this - Done.
+
+    Inheritance. - Done.
+    
+    Polymorphism. - Done.
+    Encapsulation. - Done.
+
+    Abstraction. - Not done.
+
+
+Difference between BluePrint 
+
+and something created out of blueprint ?
+
+
+
+
+After OOPs:
+
+SOLID Principles.
+Design Patterns.
